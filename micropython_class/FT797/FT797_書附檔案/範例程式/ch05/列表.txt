@@ -1,0 +1,52 @@
+﻿# -*- coding: utf-8 -*-
+
+"""
+   程式說明請參閱5-20頁
+"""
+
+she = ["Selina", "Hebe", "Ella"]
+
+esp8266 = ["Wi-Fi", "Python", 16, 3.3]
+
+she.append("杰倫")
+或
+she.insert(3, "杰倫")
+
+she[1] = '馥甄'
+
+she.pop()
+
+she.insert(0, '阿中')
+
+she.pop(0)
+
+she.extend(["杰倫", "昆凌"])
+
+或
+she += ["杰倫", "昆凌"]
+
+she.remove("Ella")
+或
+del she[2]
+
+
+she = ['Selina', 'Hebe', 'Ella']
+for val in she:
+   print(val)
+
+
+
+she = ['Selina', 'Hebe', 'Ella']
+for i, val in enumerate(she):
+   print('編號 ' + str(i) + ' 是 ' + val)
+
+
+
+life = '電池,WiFi,滷肉飯'
+list = life.split(',')
+list[2]
+
+
+spec = 'ESP8266', '80MHz', 3.3, 16
+data = list (spec)
+type (data)

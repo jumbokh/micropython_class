@@ -1,0 +1,20 @@
+﻿# -*- coding: utf-8 -*-
+
+"""
+   程式說明請參閱10-11頁
+"""
+
+class Servo:
+    total = 0
+    def __init__(self, pin):
+        self.pin = pin
+        Servo.total += 1
+        print('伺服馬達物件總數：' + str(Servo.total))
+        
+    def rotate(self, degree=90):
+        print('接在{}腳的馬達轉動到{}度。'.format(self.pin, degree))
+
+    def __del__(self):
+        Servo.total -= 1
+        print('刪除{}腳，剩餘{}個物件。'.format(self.pin, Servo.total))
+    

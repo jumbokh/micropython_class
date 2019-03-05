@@ -1,0 +1,27 @@
+﻿下載與編譯 esp-open-sdk：
+
+sudo apt-get install make unrar-free autoconf automake libtool gcc g++ gperf flex bison texinfo gawk ncurses-dev libexpat-dev python-dev python python-serial sed git unzip bash help2man wget bzip2 libtool-bin
+
+
+
+複製esp-open-sdk 原始碼
+
+git clone --recursive https://github.com/pfalcon/esp-open-sdk.git
+
+
+
+加入系統路徑命令
+
+echo "PATH=/home/你的帳號名稱/esp-open-sdk/xtensa-lx106-elf/ bin:\$PATH" >> ~/.profile
+
+
+
+複製MicroPython 原始碼
+
+git clone --recursive https://github.com/micropython/micropython.git
+
+
+
+複製編譯好的MicroPython韌體
+
+cp build/firmware-combined.bin /mnt/c/micropython

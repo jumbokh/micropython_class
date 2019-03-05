@@ -1,0 +1,1 @@
+﻿http://api.thingspeak.com/update?key=你的API_KEY&field1=22&field2=25

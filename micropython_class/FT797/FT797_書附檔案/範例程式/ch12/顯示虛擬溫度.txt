@@ -1,0 +1,19 @@
+﻿# -*- coding: utf-8 -*-
+
+"""
+   程式說明請參閱12-31頁
+"""
+
+import bigSymbol
+from machine import Pin, I2C
+import ssd1306
+i2c = I2C(scl=Pin(5), sda=Pin(4), freq=100000)
+oled = ssd1306.SSD1306_I2C(128, 64, i2c)
+
+dsp = bigSymbol.Symbol(oled)
+dsp.clear()
+dsp.temp(0, 18)
+dsp.humid(0, 38)
+dsp.text('18.50c', 34, 18)
+dsp.text('25.00%', 34, 38)
+oled.show()
