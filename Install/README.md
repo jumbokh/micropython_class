@@ -7,7 +7,7 @@
 * [Micropython Kernel](https://github.com/goatchurchprime/jupyter_micropython_kernel.git)
 * [git bash](https://git-scm.com/download/win)
 * [驅動程式](https://github.com/jumbokh/micropython_class/blob/master/CP210x_Windows_Drivers_with_Serial_Enumeration.zip)
-* [windows platform SDK]()
+* [windows platform SDK](https://github.com/jumbokh/micropython_class/blob/master/Install/NDP46-KB3045560-Web.zip)
 #
 #### 基本檔案：
 * [boot.py](https://github.com/jumbokh/micropython_class/blob/master/Install/boot.py)
