@@ -22,6 +22,11 @@
 ![image](https://github.com/jumbokh/micropython_class/blob/master/Install/images/%E7%87%92%E9%8C%84config.JPG)
 ![image](https://github.com/jumbokh/micropython_class/blob/master/Install/images/%E7%87%92%E9%8C%84Advance.JPG)
 #
+#### 燒錄不成功時，清空 flash
+###### 相關模組
+* python -m pip install --upgrade pip
+* pip install pyserial esptool
+* python -m esptool --port COM3 erase_flash
 #### 佈建Windows執行環境
 * conda create -n venv python=3.5
 * activate venv
