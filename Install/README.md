@@ -6,6 +6,7 @@
 * [putty 終端機程式](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 * [Micropython Kernel](https://github.com/goatchurchprime/jupyter_micropython_kernel.git)
 * [git bash](https://git-scm.com/download/win)
+* [驅動程式]()
 #
 #### 基本檔案：
 * [boot.py](https://github.com/jumbokh/micropython_class/blob/master/Install/boot.py)
