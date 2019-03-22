@@ -7,6 +7,7 @@
 * [Micropython Kernel](https://github.com/goatchurchprime/jupyter_micropython_kernel.git)
 * [git bash](https://git-scm.com/download/win)
 * [驅動程式](https://github.com/jumbokh/micropython_class/blob/master/CP210x_Windows_Drivers_with_Serial_Enumeration.zip)
+* [windows platform SDK]()
 #
 #### 基本檔案：
 * [boot.py](https://github.com/jumbokh/micropython_class/blob/master/Install/boot.py)
