@@ -6,6 +6,7 @@
 * [參考一](https://github.com/maloyang/KHPY20180730_MicroPython-)
 * [參考二：IOT基礎實作工坊](https://github.com/maloyang/KHPY20181103_IoT-basic)
 * [參考三：Micropython with Jupyter](https://github.com/jumbokh/MicroPython-with-Jupyter)
+* [參考四](https://towardsdatascience.com/micropython-on-esp-using-jupyter-6f366ff5ed9)
 * [Jupyter Notebook 使用技巧彙整：建置不同程式語言的核心](https://medium.com/pyradise/jupyter-notebook-tricks-kernels-9350502ccb69?fbclid=IwAR0GRpkjSeUd2VWfMOnXMlcOe_jUyYxCEWm9CTVyMnhklIiAqrb7XUj9iWc)
 ####
 * MicroPython Kernel設定
