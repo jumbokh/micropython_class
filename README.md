@@ -37,9 +37,7 @@
 ###### >>> 
 ###### >>> import uos
 ###### >>> uos.uname()
-#
-* 感謝：[Malo Yang](https://www.facebook.com/yang.malo.5)協助測試環境
-#
+
 * ampy test:
 ###### ampy --port COM4 ls
 ![image](https://github.com/jumbokh/micropython_class/blob/master/Install/images/kernels.JPG)
@@ -67,3 +65,6 @@
 ###### >>> sta.ifconfig()
 #
 ###### [參考](https://www.instructables.com/id/Micropython-on-ESP-Using-Jupyter/)
+#
+* 感謝：[Malo Yang](https://www.facebook.com/yang.malo.5)協助測試環境
+#
