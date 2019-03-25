@@ -22,7 +22,7 @@
 #
 #### 使用打包好的整合系統進行測試
 #
-* 下載/解開： winpython 下之 WPy-3710-jumbo.zip
+* 下載/解開： [winpython 下之 WPy-3710-jumbo.zip](https://github.com/jumbokh/micropython_class/blob/master/winpython/WPy-3710-jumbo.zip)
 * 參考 winpython 下之 [README.md 說明](https://github.com/jumbokh/micropython_class/blob/master/winpython/README.md)
 #
 #### test：
