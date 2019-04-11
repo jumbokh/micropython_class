@@ -1,0 +1,57 @@
+﻿# -*- coding: utf-8 -*-
+
+"""
+   程式說明請參閱5-14頁
+"""
+
+words = '失敗並不可怕\n可怕的是你不能釋懷它'
+
+words = '我的網址：' + 'swf.com.tw'
+
+words = '''
+
+   理想很豐滿，
+    現實很骨感。
+'''
+
+words = (
+  '再多一點努力，'
+  '就多一點成功。'
+)
+
+
+words = '我談過最長的戀愛，' \
+             '就是自戀。'
+
+
+words = '''\
+不要對我說對不起，\
+因為我們沒關係。\
+'''
+
+ans = "答案：" + str(24)
+
+
+id = 12
+score = 86
+print("座號：" + str(num) + "，成績：" + str(score))
+print("座號：", num, "，成績：", score)
+
+
+msg = '{0} 今年 {1} 歲。'
+msg = msg.format('小趙', 10)
+print (msg)
+
+
+msg = '{x} 今年 {y} 歲。'
+msg = msg.format(y=10, x='小趙')
+print (msg)
+
+
+msg = '隔著窗戶撕字紙，撕了字紙吃柿子。'
+index = msg.find('柿子')
+
+
+old = '我的字典裡沒有假期'
+new = old.replace('假期', '放棄')
+print (new)
