@@ -9,3 +9,4 @@
 ### [python](https://drive.google.com/open?id=1ekR9CcUSHtSD5MtDI6bYRrxVJHo6qWgk)
 ### [python教材壓縮檔](https://drive.google.com/open?id=1-jjnpijBR8P9XaA8wva4yhxVohQ8y2mC)
 * [Google Colab](https://colab.research.google.com/)
+### [參考：小狐狸事務所](http://yhhuang1966.blogspot.com/2017/06/micropython-on-esp8266-dht11.html)
