@@ -1,3 +1,6 @@
+#
+## [Micropython LAB](https://drive.google.com/open?id=1Vk7Bpo1ToMbCVcvCbbG5L_I3zIIQ4702)
+#
 ### 本目錄下 scikit 需要另外安裝 sklearn 模組
 ### 可以在 winpython prompt 下，以 
 * pip install sklearn numpy matplotlib
