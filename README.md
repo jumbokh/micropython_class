@@ -15,8 +15,8 @@
 #### 安裝步驟：
 ## 下載及安裝工具程式 
 *    pip install esptool
-## 下載[韌體檔案](https://github.com/jumbokh/micropython_class/blob/master/micropython_class/binary/esp8266-20190125-v1.10.bin)
- [官方網站](http://micropython.org/download)
+## 下載[韌體檔案](https://github.com/jumbokh/micropython_class/blob/master/micropython_class/binary/esp8266-20190125-v1.10.bin)  [官方網站](http://micropython.org/download)
+#
 ##  以 Flasher64 燒錄韌體
 ![image](https://github.com/jumbokh/micropython_class/blob/master/Install/images/%E7%87%92%E9%8C%84main.JPG)
 ![image](https://github.com/jumbokh/micropython_class/blob/master/Install/images/%E7%87%92%E9%8C%84config.JPG)
