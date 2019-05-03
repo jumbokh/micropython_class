@@ -8,7 +8,7 @@
 * [git bash](https://git-scm.com/download/win)
 #
 #### 基本檔案：
-* [boot.py]()
+* [boot.py](https://github.com/jumbokh/micropython_class/blob/master/Install/boot.py)
 * [main.py](https://github.com/jumbokh/micropython_class/blob/master/Install/main.py)
 * [webtool.html](https://github.com/jumbokh/micropython_class/blob/master/Install/webtool.html)
 #
