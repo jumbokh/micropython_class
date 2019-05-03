@@ -13,17 +13,17 @@
 * [webtool.html](https://github.com/jumbokh/micropython_class/blob/master/Install/webtool.html)
 #
 #### 安裝步驟：
-* 下載及安裝工具程式 
+## 下載及安裝工具程式 
 *    pip install esptool
-* 下載[韌體檔案](https://github.com/jumbokh/micropython_class/blob/master/micropython_class/binary/esp8266-20190125-v1.10.bin)
-*  以 Flasher64 燒錄韌體
+## 下載[韌體檔案](https://github.com/jumbokh/micropython_class/blob/master/micropython_class/binary/esp8266-20190125-v1.10.bin)
+##  以 Flasher64 燒錄韌體
 ![image](https://github.com/jumbokh/micropython_class/blob/master/Install/images/%E7%87%92%E9%8C%84main.JPG)
 ![image](https://github.com/jumbokh/micropython_class/blob/master/Install/images/%E7%87%92%E9%8C%84config.JPG)
 ![image](https://github.com/jumbokh/micropython_class/blob/master/Install/images/%E7%87%92%E9%8C%84Advance.JPG)
 #
 #### 使用打包好的整合系統進行測試
 #
-* 下載/解開： [winpython 下之 WPy-3710-jumbo.zip](https://github.com/jumbokh/micropython_class/blob/master/winpython/WPy-3710-jumbo.zip)
+## 下載/解開： [winpython 下之 WPy-3710-jumbo.zip](https://github.com/jumbokh/micropython_class/blob/master/winpython/WPy-3710-jumbo.zip)
 * 參考 winpython 下之 [README.md 說明](https://github.com/jumbokh/micropython_class/blob/master/winpython/README.md)
 #
 #### test：
