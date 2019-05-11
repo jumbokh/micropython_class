@@ -1,6 +1,6 @@
 ### winpython 使用說明
 #
-* 可直接下載： [Google 雲端：WPy-0511-light](https://drive.google.com/open?id=15GCkolEhGlgMMaQmqbIsu2LBJ6WUT5-_)
+* 可直接下載： [Google 雲端：WPy-0511-R2](https://drive.google.com/open?id=1Tq9Db0tKangzw_5FXdJgoeU_pKrV_78p)
 * 下載後解開壓縮
 ![image](https://github.com/jumbokh/micropython_class/blob/master/winpython/winpython.JPG)
 * 執行： WinPython Command Prompt.exe
