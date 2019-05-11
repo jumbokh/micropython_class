@@ -28,7 +28,7 @@
 * pip install pyserial esptool
 * python -m esptool --port COM3 erase_flash
 #
-#### [已經整合好的環境](https://drive.google.com/file/d/1uBbERr3BpYymWXW-XNMubSF-pmJ1CHXC/view)
+#### [Google 雲端：WPy-0511-light](https://drive.google.com/open?id=15GCkolEhGlgMMaQmqbIsu2LBJ6WUT5-_)
 ###  [kernel 參考](https://github.com/maloyang/20181116_smart-car/blob/master/smart-car-workshop.ipynb)
 #
 #### 佈建Windows執行環境
