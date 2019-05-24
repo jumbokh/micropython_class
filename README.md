@@ -24,7 +24,7 @@
 #
 * 使用打包好的整合系統進行測試
 #
-## 下載/解開： [Google 雲端：WPy-0511-R2](https://drive.google.com/open?id=1Tq9Db0tKangzw_5FXdJgoeU_pKrV_78p)
+## 下載/解開： [Google 雲端：WPy-0524-R1](https://drive.google.com/open?id=1JjDOW1SdlqrCXyX2vjAydp3E2eedKtsI)
 * 參考 winpython 下之 [README.md 說明](https://github.com/jumbokh/micropython_class/blob/master/winpython/README.md)
 #
 #### test：
