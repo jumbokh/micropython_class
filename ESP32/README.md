@@ -1,3 +1,4 @@
+## 參考: [Micropython 基礎教程](http://www.1zlab.com/wiki/micropython-esp32/)
 ## Micropython 安裝程序
 #
 ### 工具程式：
