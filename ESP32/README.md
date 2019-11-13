@@ -24,7 +24,8 @@
 *  執行: 
 esptool --port COM5 --chip esp32 erase_flash
 esptool --chip esp32 --port COM5 write_flash -z 0x1000 esp32-idf3-20191109-v1.11-571-g7e374d231.bin
-
+* 或執行 go
+* 在瀏覽器中的 jupyter notebook 執行 rebuild.ipynb
 #
 ### 燒錄不成功時，清空 flash (在 anaconda prompt 中執行)
 ### 相關模組
