@@ -42,14 +42,14 @@
 * git clone https://github.com/goatchurchprime/jupyter_micropython_kernel.git
 * pip install -e jupyter_micropython_kernel
 * jupyter kernelspec list
-![image](https://github.com/jumbokh/micropython_class/blob/master/Install/images/kernels.JPG)
+![image](images/kernels.JPG)
 #
 #### test：
 * putty 終端機
 ###### 開啟putty
-![image](https://github.com/jumbokh/micropython_class/blob/master/Install/images/putty.JPG)
+![image](images/putty.JPG)
 ###### 設定連接埠
-![image](https://github.com/jumbokh/micropython_class/blob/master/Install/images/putty_serial.JPG)
+![image](images/putty_serial.JPG)
 ###### 連接
 ###### 嘗試按 CTRL-C
 ###### 出現提示符號
@@ -59,7 +59,7 @@
 #
 * ampy test:
 ###### ampy --port COM4 ls
-![image](https://github.com/jumbokh/micropython_class/blob/master/Install/images/kernels.JPG)
+![image](images/kernels.JPG)
 #
 * 設定 webrepl
 ###### MicroPython v1.10-8-g8b7039d7d on 2019-01-26; ESP module with ESP8266
