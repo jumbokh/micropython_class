@@ -4,7 +4,7 @@
 * 下載後解開壓縮
 ![image](https://github.com/jumbokh/micropython_class/blob/master/winpython/winpython.JPG)
 * 執行： WinPython Command Prompt.exe
-*        D:\.....\WPy-3710-jumbo\scripts> kernel  <== 執行 jupyter notebook
+*        D:\.....\WPy-1113\scripts> kernel  <== 執行 jupyter notebook
 *        
 *        Spyter.exe
 *
