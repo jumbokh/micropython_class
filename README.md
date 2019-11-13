@@ -17,14 +17,11 @@
 ####  在Winpython Comprompt 視窗下執行： pip install esptool
 * 下載[韌體檔案](https://github.com/jumbokh/micropython_class/blob/master/micropython_class/binary/esp8266-20190125-v1.10.bin)  [官方網站](http://micropython.org/download)
 #
-*  以 Flasher64 燒錄韌體
-![image](https://github.com/jumbokh/micropython_class/blob/master/Install/images/%E7%87%92%E9%8C%84main.JPG)
-![image](https://github.com/jumbokh/micropython_class/blob/master/Install/images/%E7%87%92%E9%8C%84config.JPG)
-![image](https://github.com/jumbokh/micropython_class/blob/master/Install/images/%E7%87%92%E9%8C%84Advance.JPG)
+*  燒錄韌體: 依據不同板子(ESP8266 或 ESP32) 目錄下的 rebuild.ipynb
 #
 * 使用打包好的整合系統進行測試
 #
-## 下載/解開： [Google 雲端：WPy-0524-R1](https://drive.google.com/open?id=1JjDOW1SdlqrCXyX2vjAydp3E2eedKtsI)
+## 下載/解開： [Google 雲端：WPy1113](https://drive.google.com/open?id=1KoLkMRPrjQ207YSfmPrZFmiKUEiczzry)
 * 參考 winpython 下之 [README.md 說明](https://github.com/jumbokh/micropython_class/blob/master/winpython/README.md)
 #
 #### test：
