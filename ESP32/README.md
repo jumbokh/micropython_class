@@ -47,14 +47,14 @@ esptool --chip esp32 --port COM5 write_flash -z 0x1000 esp32-idf3-20191109-v1.11
 * git clone https://github.com/goatchurchprime/jupyter_micropython_kernel.git
 * pip install -e jupyter_micropython_kernel
 * jupyter kernelspec list
-![image](https://github.com/jumbokh/micropython_class/blob/master/Install/images/kernels.JPG)
+![image](images/kernels.JPG)
 #
 ### test：
 * putty 終端機
 ### 開啟putty
-![image](https://github.com/jumbokh/micropython_class/blob/master/Install/images/putty.JPG)
+![image](images/putty.JPG)
 ### 設定連接埠
-![image](https://github.com/jumbokh/micropython_class/blob/master/Install/images/putty_serial.JPG)
+![image](images/putty_serial.JPG)
 ### 連接
 ### 嘗試按 CTRL-C
 ### 出現提示符號
@@ -64,7 +64,7 @@ esptool --chip esp32 --port COM5 write_flash -z 0x1000 esp32-idf3-20191109-v1.11
 #
 * ampy test:
 ### ampy --port COM5 ls
-![image](https://github.com/jumbokh/micropython_class/blob/master/Install/images/kernels.JPG)
+![image](images/kernels.JPG)
 #
 * 設定 webrepl
 ### MicroPython esp32-idf3-20191109-v1.11-571-g7e374d231
