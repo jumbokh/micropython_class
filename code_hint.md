@@ -29,9 +29,9 @@
 * led_pwm = PWM(Pin(2),5000)
 
 * while True:
-*  pot_value = pot.read()
-*  led_pwm.duty(pot_value)
-*  sleep(0.1)
+*    pot_value = pot.read()
+*    led_pwm.duty(pot_value)
+*    sleep(0.1)
 ##
 ### 光敏電阻
 * from machine import ADC, Pin
