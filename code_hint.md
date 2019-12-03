@@ -11,3 +11,15 @@
 * vi = 3.3 * 120/(120+200)
 * vo = (a /255.0) * vi
 * print(vi,vo)
+##
+### 光敏電阻
+from machine import ADC, Pin
+import time
+
+p2 = Pin(15, Pin.OUT)
+adc = ADC(Pin(36))            # create ADC object on ADC pin
+while True:
+     if adc.read() > 500:
+            p2.value(1)
+     time.sleep(2)
+     p2.value(0)
