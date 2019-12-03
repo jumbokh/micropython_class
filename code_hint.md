@@ -13,9 +13,6 @@
 * print(vi,vo)
 ##
 ### LED + PWM
-# Complete project details at https://RandomNerdTutorials.com
-# Created by Rui Santos
-
 * from machine import Pin, ADC, PWM
 * from time import sleep
 
