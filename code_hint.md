@@ -13,25 +13,27 @@
 * print(vi,vo)
 ##
 ### LED + PWM
-* from machine import Pin, ADC, PWM
-* from time import sleep
+<pre>
+from machine import Pin, ADC, PWM
+from time import sleep
 
-* led = Pin(2, Pin.OUT)
+led = Pin(2, Pin.OUT)
 
-* #Configure ADC for ESP32
-* pot = ADC(Pin(36))
-* pot.width(ADC.WIDTH_10BIT)
-* pot.atten(ADC.ATTN_11DB)
+#Configure ADC for ESP32
+pot = ADC(Pin(36))
+pot.width(ADC.WIDTH_10BIT)
+pot.atten(ADC.ATTN_11DB)
 
-* #Configure ADC for ESP
-* #pot = ADC(0)
+#Configure ADC for ESP
+#pot = ADC(0)
 
-* led_pwm = PWM(Pin(2),5000)
+led_pwm = PWM(Pin(2),5000)
 
-* while True:
-*    pot_value = pot.read()
-*    led_pwm.duty(pot_value)
-*    sleep(0.1)
+while True:
+   pot_value = pot.read()
+   led_pwm.duty(pot_value)
+   sleep(0.1)
+</pre>
 ##
 ### 光敏電阻
 * from machine import ADC, Pin
