@@ -36,7 +36,7 @@ esptool --chip esp32 --port COM5 write_flash -z 0x1000 esp32-idf3-20191109-v1.11
 ### [WINPYTHON官網下載](https://winpython.github.io/)
 ### [Micropython firmware 官網](http://micropython.org/download/)
 ### [Micropython kernel for Jupyter Notebook](https://github.com/goatchurchprime/jupyter_micropython_kernel)
-### [打包好的winpython]()
+### [打包好的winpython](https://drive.google.com/open?id=1T44BDV56kWCupJeVEZrwWAOp5_Vg9jbu)
 
 ### 佈建Windows執行環境
 * conda create -n venv python=3.5
