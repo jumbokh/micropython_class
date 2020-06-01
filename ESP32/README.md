@@ -33,9 +33,11 @@ esptool --chip esp32 --port COM5 write_flash -z 0x1000 esp32-idf3-20191109-v1.11
 * pip install pyserial esptool
 * python -m esptool --port COM5 erase_flash
 #
-### [打包好的winpython](https://drive.google.com/open?id=1JjDOW1SdlqrCXyX2vjAydp3E2eedKtsI)
-###  [kernel 參考](https://github.com/maloyang/20181116_smart-car/blob/master/smart-car-workshop.ipynb)
-#
+### [WINPYTHON官網下載](https://winpython.github.io/)
+### [Micropython firmware 官網](http://micropython.org/download/)
+### [Micropython kernel for Jupyter Notebook](https://github.com/goatchurchprime/jupyter_micropython_kernel)
+### [打包好的winpython]()
+
 ### 佈建Windows執行環境
 * conda create -n venv python=3.5
 * activate venv
@@ -93,3 +95,4 @@ esptool --chip esp32 --port COM5 write_flash -z 0x1000 esp32-idf3-20191109-v1.11
 ### >>> sta.ifconfig()
 #
 ### [參考](https://www.instructables.com/id/Micropython-on-ESP-Using-Jupyter/)
+###  [Smart Car 參考](https://github.com/maloyang/20181116_smart-car/blob/master/smart-car-workshop.ipynb)
