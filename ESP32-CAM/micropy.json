@@ -1,0 +1,8 @@
+{
+    "name": "ESP32-CAM",
+    "stubs": {},
+    "dev-packages": {
+        "micropy-cli": "*"
+    },
+    "packages": {}
+}
