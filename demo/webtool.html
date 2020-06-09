@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head> <title>upy webserver</title> </head>
+<center><h2>upy webserver</h2></center>
+<h3>
+webREPL: <a href="http://micropython.org/webrepl/" target="_blank">webrepl</a>
+<br>
+Doc: <a href="https://docs.micropython.org/en/latest/esp8266/esp8266/quickref.html" target="_blank">Quick reference</a>
+</h3>
+<hr>
+
+<form>
+<b>LED (D4):</b><br>
+<button name="LED" value="ON" type="submit">ON</button><br>
+<button name="LED" value="OFF" type="submit">OFF</button><br>
+</form>
+
+<form>
+<b>Buzzer (D2):</b><br>
+<button name="buzzer" value="on" type="submit">ON</button><br>
+<button name="buzzer" value="off" type="submit">OFF</button><br>
+</form>
+
+<form>
+<b>T/H sensor (D1):</b><br>
+<button name="th_sensor" value="read" type="submit">Read</button><br>
+T=?degree
+</form>
+
+<hr>
+GPIO Info. :<br>
+<pre>
+D0 = 16
+D1 = 5  #DHT11, T/H Sensor
+D2 = 4  #Buzzer
+D3 = 0  
+D4 = 2  #Led on board
+D5 = 14 
+D6 = 12 
+D7 = 13 
+D8 = 15 
+</pre>
+
+</html>
