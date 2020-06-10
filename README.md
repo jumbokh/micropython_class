@@ -11,7 +11,7 @@
 * Windows 環境
     * 1. [anaconda](https://www.anaconda.com/products/individual) ## 建立虛擬環境
     * 2. pip install pyserial esptool jupyter
-    * 3. [ampy](https://ithelp.ithome.com.tw/articles/10203046)
+    * 3. [ampy](https://ithelp.ithome.com.tw/articles/10203046) ## pip3 install adafruit-ampy
     * 4. [putty 終端機](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
     * 5. [git bash](https://git-scm.com/download/win)
     * 6. [jupyter_micropython_kernel](https://github.com/goatchurchprime/jupyter_micropython_kernel.git)
