@@ -15,10 +15,12 @@
         * jupyter kernelspec list
         * jupyter notebook
 #### Lab: 
+* Lab list:
     * [demo files](https://github.com/jumbokh/micropython_class/tree/master/demo)
     * [ESP32](https://github.com/jumbokh/micropython_class/tree/master/ESP32)
     * [ESP32-CAM](https://github.com/jumbokh/micropython_class/tree/master/ESP32-CAM)
 #### Starting
+* examples:
     * [rebuild ESP32](https://github.com/jumbokh/micropython_class/blob/master/ESP32/0.%20rebuild_esp32.ipynb)
     * [LED Blink](https://github.com/jumbokh/micropython_class/blob/master/ESP32/Lab1_LED.ipynb)
     * [Button](https://github.com/jumbokh/micropython_class/blob/master/ESP32/Lab3_button.ipynb)
