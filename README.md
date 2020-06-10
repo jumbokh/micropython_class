@@ -8,7 +8,7 @@
 * 2. [方法二: uPyCraft](http://docs.dfrobot.com.cn/upycraft/)
 ### 方法三: 手動安裝
 #### 安裝軟體
-* 1. Windows 環境
+* Windows 環境
     * 1. [anaconda](https://www.anaconda.com/products/individual) ## 建立虛擬環境
     * 2. pip install pyserial esptool jupyter
     * 3. [ampy](https://ithelp.ithome.com.tw/articles/10203046)
