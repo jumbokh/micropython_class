@@ -5,7 +5,7 @@
 * [MicroPython中文教程.pdf](https://github.com/jumbokh/micropython_class/blob/master/doc/MicroPython%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B.pdf)
 ### 設定
 * 1. [方法一: winpython](README-1.md)
-* 2. [方法二: uPyCraft](http://docs.dfrobot.com.cn/upycraft/)
+* 2. [方法二: uPyCraft](http://docs.dfrobot.com.cn/upycraft/) # [在 ESP32開發板上 使用 uPyCraft 快速燒錄及編寫程式](https://davistseng.blogspot.com/2017/12/esp32-upycraft.html)
 ### 方法三: 手動安裝
 #### 安裝軟體
 * Windows 環境
