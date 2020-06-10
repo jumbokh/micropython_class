@@ -25,6 +25,9 @@
     * [ESP32](https://github.com/jumbokh/micropython_class/tree/master/ESP32)
     * [ESP32-CAM](https://github.com/jumbokh/micropython_class/tree/master/ESP32-CAM)
 #### Starting
+* esptool
+    * erase: python -m esptool erase_flash
+    * burn firmware: python -m esptool --port COM4 --chip esp32 write_flash 0x1000 esp32-firmware.bin
 * examples:
     * [rebuild ESP32](https://github.com/jumbokh/micropython_class/blob/master/ESP32/0.%20rebuild_esp32.ipynb)
     * [LED Blink](https://github.com/jumbokh/micropython_class/blob/master/ESP32/Lab1_LED.ipynb)
