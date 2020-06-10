@@ -1,3 +1,5 @@
+## AI-THINKER 官網
+* [ESP32-CAM](http://wiki.ai-thinker.com/esp32-cam)
 ## 
 * 使用 esp32cam-firmware.bin
 * 先測試安裝 picoweb, 參考 [ESP32 MicroPython: HTTP Webserver with Picoweb](https://techtutorialsx.com/2017/09/01/esp32-micropython-http-webserver-with-picoweb/)
