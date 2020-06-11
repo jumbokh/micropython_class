@@ -38,3 +38,5 @@
 ##
 ### 參考
 * [Micropython for ESP32 ](https://docs.espressif.com/projects/esp-idf/zh_CN/v4.0.1/get-started/index.html)
+* [Rest example](https://gitlab.com/superfly/dawndoor/-/tree/master/src)
+* [MicroRESTCli](https://github.com/jczic/MicroRESTCli)
