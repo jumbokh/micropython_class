@@ -42,5 +42,13 @@
 * [Micropython for ESP32 ](https://docs.espressif.com/projects/esp-idf/zh_CN/v4.0.1/get-started/index.html)
 * [Firmware buildup](https://github.com/shariltumin/esp32-cam-micropython/tree/master/esp32-cam-1-11-498)
 * [MicroPython: Taking photos with an ESP32-CAM](https://lemariva.com/blog/2019/09/micropython-how-about-taking-photo-esp32)
+* [Ubuntu18.04：搭建ESP32 MicroPython编译环境](https://codeleading.com/article/38851328254/)
 * [Rest example](https://gitlab.com/superfly/dawndoor/-/tree/master/src)
 * [MicroRESTCli](https://github.com/jczic/MicroRESTCli)
+* [快速入门](https://docs.espressif.com/projects/esp-idf/zh_CN/v4.0.1/get-started/index.html)
+* [uPyCraft 中的範例](http://docs.dfrobot.com.cn/upycraft/%E7%AC%AC4%E7%AB%A0%E7%BB%BC%E5%90%88%E9%A1%B9%E7%9B%AE.html)
+* [Building Qt 5 from Git](https://wiki.qt.io/Building_Qt_5_from_Git#Getting_the_source_code)
+* [uPyCraft_PyQt5](https://longervision.github.io/2018/09/15/Tools/uPyCraft_PyQt5/)
+* [MicroPython on ESP32 學習筆記 (九) : upip 安裝網頁框架 picoweb 失敗](http://yhhuang1966.blogspot.com/2019/07/micropython-on-esp32-upip-picoweb.html)
+
+
