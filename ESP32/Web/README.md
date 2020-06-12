@@ -55,3 +55,5 @@
 ##
 ### 參考
 * [picoweb](https://github.com/pfalcon/picoweb)
+* [uasyncio error topics](https://forum.micropython.org/viewtopic.php?t=6002)
+* [Running Picoweb on hardware devices](https://github.com/peterhinch/micropython-samples/blob/master/PICOWEB.md)
