@@ -35,6 +35,7 @@
     * [DHT11 Test](https://github.com/jumbokh/micropython_class/blob/master/ESP32/LAB4_DHT11.ipynb)
     * [MQTT -- DHT11](https://github.com/jumbokh/micropython_class/tree/master/ESP32/MQTT)
         * 安裝 [MQTT Dashboard app](https://apkpure.com/tw/iot-mqtt-dashboard/com.thn.iotmqttdashboard)
+    * [picoweb](https://github.com/jumbokh/micropython_class/tree/master/ESP32/Web)
 ##
 ### 參考
 * [Micropython for ESP32 ](https://docs.espressif.com/projects/esp-idf/zh_CN/v4.0.1/get-started/index.html)
