@@ -6,7 +6,7 @@
 ### 設定/IDE
 * 1. [方法一: winpython](README-1.md)
 * 2. [方法二: uPyCraft](http://docs.dfrobot.com.cn/upycraft/) # [在 ESP32開發板上 使用 uPyCraft 快速燒錄及編寫程式](https://davistseng.blogspot.com/2017/12/esp32-upycraft.html)
-* 3. [方法三: Thonny](https://thonny.org/)
+* 3. [方法三: Thonny](https://thonny.org/)  # [Thonny WiKi](https://github.com/thonny/thonny/wiki)
 * 4. 方法四: 手動安裝
 #### 安裝軟體
 * Windows 環境
