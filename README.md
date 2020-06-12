@@ -39,5 +39,6 @@
 ##
 ### 參考
 * [Micropython for ESP32 ](https://docs.espressif.com/projects/esp-idf/zh_CN/v4.0.1/get-started/index.html)
+* [Firmware buildup](https://github.com/shariltumin/esp32-cam-micropython/tree/master/esp32-cam-1-11-498)
 * [Rest example](https://gitlab.com/superfly/dawndoor/-/tree/master/src)
 * [MicroRESTCli](https://github.com/jczic/MicroRESTCli)
