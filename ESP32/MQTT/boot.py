@@ -11,17 +11,17 @@ esp.osdebug(None)
 import gc
 gc.collect()
 
-ssid = 'informatics'
+ssid = 'jumboap'
 password = '0953313123'
 mqtt_server = 'gpssensor.ddns.net'
 #EXAMPLE IP ADDRESS
 #mqtt_server = '192.168.1.144'
 client_id = ubinascii.hexlify(machine.unique_id())
-topic_sub = b'/CSU/RT'
-topic_pub = b'/CSU/T'
-topic_sub1 = b'/CSU/RH'
-topic_pub1 = b'/CSU/H'
-topic_sub2 = b'/CSU/lamp'
+topic_sub = b'/ESP32/RT'
+topic_pub = b'/ESP32/T'
+topic_sub1 = b'/ESP32/RH'
+topic_pub1 = b'/ESP32/H'
+topic_sub2 = b'/ESP32/lamp'
 
 last_message = 0
 message_interval = 5
