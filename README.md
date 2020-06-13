@@ -27,6 +27,29 @@
     * [demo files](https://github.com/jumbokh/micropython_class/tree/master/demo)
     * [ESP32](https://github.com/jumbokh/micropython_class/tree/master/ESP32)
     * [ESP32-CAM](https://github.com/jumbokh/micropython_class/tree/master/ESP32-CAM)
+    * boot.py
+<pre>
+%sendtofile boot.py
+import network
+import ubinascii
+import time
+sta = network.WLAN(network.STA_IF)
+sta.active(True)
+
+SSID='jumboap'
+KEY='0953313123'
+print(sta.active())
+sta.connect(SSID,KEY)
+
+mac = ubinascii.hexlify(sta.config('mac'),':').decode()
+print(mac)
+for i in range(20):
+    time.sleep(0.5)
+    if sta.isconnected():
+        break
+print(sta.ifconfig())
+print('ESP32 Started.')
+</pre>
 #### Starting
 * esptool
     * erase: python -m esptool erase_flash
