@@ -36,8 +36,8 @@ import time
 sta = network.WLAN(network.STA_IF)
 sta.active(True)
 
-SSID='jumboap'
-KEY='0953313123'
+SSID='your-ssid'
+KEY='your-key'
 print(sta.active())
 sta.connect(SSID,KEY)
 
