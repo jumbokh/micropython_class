@@ -19,3 +19,6 @@ upip.install('picoweb')  # tested with 1.5.2
 upip.install('micropython-ulogging')
 upip.install('ujson')
 </pre>
+##
+## 參考
+* [esp32-cam source](https://kopimojo.blogspot.com/2019/10/micropython-v1.html)
