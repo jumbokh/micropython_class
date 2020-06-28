@@ -22,3 +22,4 @@ upip.install('ujson')
 ##
 ## 參考
 * [esp32-cam source](https://kopimojo.blogspot.com/2019/10/micropython-v1.html)
+* [ESP32-CAM | ESP32 Camera Module with Face Recognition](https://robotzero.one/esp32-camera-module/)
