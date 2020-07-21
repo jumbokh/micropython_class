@@ -12,7 +12,6 @@ import ulogging as logging
 logging.basicConfig(level=logging.INFO)
 log = logging.getLogger('app')
 
-
 @app.route('/')
 def index(req, resp):
 
@@ -39,4 +38,4 @@ def index(req, resp):
 
 
 def run():
-    app.run(host='192.168.1.105', port=80, debug=True)
+    app.run(host='0.0.0.0', port=80, debug=True)

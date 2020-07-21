@@ -7,7 +7,7 @@ wlan.active(True)
 # SSID and password are stored in flash:
 # micropython code ports/esp32/modnetwork.c was changed to
 # esp_wifi_set_storage(WIFI_STORAGE_FLASH)
-SSID='CHT-10-5'
+SSID='informatics'
 KEY='0953313123'
 wlan.connect(SSID,KEY)
 print(wlan.ifconfig())

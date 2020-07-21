@@ -1,6 +1,5 @@
-
 import network
-import time
+
 wlan = network.WLAN(network.STA_IF)
 wlan.active(True)
 #wlan.config(dhcp_hostname='esp32cam')
@@ -12,8 +11,3 @@ SSID='informatics'
 KEY='0953313123'
 wlan.connect(SSID,KEY)
 print(wlan.ifconfig())
-time.sleep(2)
-
-import webcam
-dir(webcam)
-webcam.run()
