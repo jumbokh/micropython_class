@@ -95,4 +95,5 @@ esptool --chip esp32 --port COM5 write_flash -z 0x1000 esp32-idf3-20191109-v1.11
 ### >>> sta.ifconfig()
 #
 ### [參考](https://www.instructables.com/id/Micropython-on-ESP-Using-Jupyter/)
-###  [Smart Car 參考](https://github.com/maloyang/20181116_smart-car/blob/master/smart-car-workshop.ipynb)
+### [Smart Car 參考](https://github.com/maloyang/20181116_smart-car/blob/master/smart-car-workshop.ipynb)
+### [30+ MicroPython Projects, Tutorials](https://randomnerdtutorials.com/projects-esp32-esp8266-micropython/)
