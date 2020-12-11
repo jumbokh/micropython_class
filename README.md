@@ -4,7 +4,7 @@
 * [ppt2](https://github.com/jumbokh/micropython_class/blob/master/MicroPython102%20IOT%E5%85%A5%E9%96%80.pptx)
 * [MicroPython中文教程.pdf](https://github.com/jumbokh/micropython_class/blob/master/doc/MicroPython%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B.pdf)
 #### 設定/IDE
-* 1. [方法一: winpython](README-1.md)
+* 1. [方法一: winpython](https://github.com/jumbokh/micropython_class/blob/master/readme-wpy.md)
 * 2. [方法二: uPyCraft](http://docs.dfrobot.com.cn/upycraft/) # [在 ESP32開發板上 使用 uPyCraft 快速燒錄及編寫程式](https://davistseng.blogspot.com/2017/12/esp32-upycraft.html)
 * 3. [方法三: Thonny](https://thonny.org/)  # [Thonny WiKi](https://github.com/thonny/thonny/wiki)
 * 4. 方法四: 手動安裝
