@@ -5,7 +5,7 @@
 ### 解壓至根目錄
 * ![winpy1](https://github.com/jumbokh/micropython_class/blob/master/winpython/winpy1.jpg)
 * ![winpy 2](https://github.com/jumbokh/micropython_class/blob/master/winpython/winpy2.jpg)
-* ![winpy 3](https://github.com/jumbokh/micropython_class/blob/master/winpython/winpy1.jpg)
+* ![winpy 3](https://github.com/jumbokh/micropython_class/blob/master/winpython/winpy3.jpg)
 ![image](https://github.com/jumbokh/micropython_class/blob/master/winpython/winpython.JPG)
 * 執行： WinPython Command Prompt.exe
 *        D:\Winpython\WPy64-3741\scripts> go  <== 執行 jupyter notebook
