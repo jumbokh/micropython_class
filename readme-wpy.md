@@ -11,3 +11,8 @@
 * [C++ Build tools](https://go.microsoft.com/fwlink/?LinkId=691126)
 ### 安裝 esptool
 * pip install esptool
+### 安裝 ampy
+* pip3 install adafruit-ampy
+### 下載 putty
+* [putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+
