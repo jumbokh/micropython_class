@@ -7,3 +7,7 @@
 ###  複製到剛剛解開的 winpy\WPy64-3860\ 之下
 ### 更新pip
 * C:\winpy\WPy64-3860\python-3.8.6.amd64\python.exe -m pip install --upgrade pip
+### 下載 Microsoft C++ Build tools
+* [C++ Build tools](https://go.microsoft.com/fwlink/?LinkId=691126)
+### 安裝 esptool
+* pip install esptool
