@@ -14,7 +14,7 @@ while True:
     p2.value(1)
     time.sleep(1)
     # 關黃燈，並開紅燈 3 秒
-    P2.value(0)
+    p2.value(0)
     p4.value(1)
     time.sleep(3)
     # 關紅燈
