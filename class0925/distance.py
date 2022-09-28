@@ -1,5 +1,5 @@
 # Complete project details at https://RandomNerdTutorials.com/micropython-hc-sr04-ultrasonic-esp32-esp8266/
-from hcsr04 import HCSR04
+from HCSR04 import HCSR04
 from time import sleep
 
 # ESP32
