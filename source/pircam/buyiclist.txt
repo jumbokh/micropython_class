@@ -1,0 +1,10 @@
+https://easyelectronicsproject.com/esp32-projects/esp32-cam-pir-motion-detector-with-photo-capture-1/
+ESP32-CAM (AI Thinker)
+PIR Motion Sensor Module
+BC547 NPN Transistor
+220ohm, 1k, 10k Resistor.
+LED 5-mm
+FTDI 232 USB to Serial Interface board
+5 volt DC supply
+
+http://coopermaa2nd.blogspot.com/2011/03/arduino-pir-motion-sensor-led.html
