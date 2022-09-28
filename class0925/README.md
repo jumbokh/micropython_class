@@ -11,11 +11,11 @@
     * [clist.py](https://github.com/jumbokh/micropython_class/blob/master/class0925/clist.py)
 #### Lab 來客報知機
 #### Lab LCD實驗
+* [LCD Text](https://github.com/jumbokh/micropython_class/blob/master/class0925/lcdText.py)
+* [LCD Number](https://github.com/jumbokh/micropython_class/blob/master/class0925/lcdNumber.py)
 ##### LCD 程式庫
 * [i2c_lcd.py](https://github.com/jumbokh/micropython_class/blob/master/class0925/i2c_lcd.py)
 * [lcd_api.py](https://github.com/jumbokh/micropython_class/blob/master/class0925/lcd_api.py)
-* [LCD Text](https://github.com/jumbokh/micropython_class/blob/master/class0925/lcdText.py)
-* [LCD Number](https://github.com/jumbokh/micropython_class/blob/master/class0925/lcdNumber.py)
 #### Lab 超音波實驗
 * [i2cscan](https://github.com/jumbokh/micropython_class/blob/master/class0925/I2C.py)
 * [distance](https://github.com/jumbokh/micropython_class/blob/master/class0925/distance.py)
