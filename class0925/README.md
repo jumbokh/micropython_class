@@ -9,4 +9,14 @@
 * [Blink 紅綠燈](https://github.com/jumbokh/micropython_class/blob/master/class0925/RYGLED.py)
 * [RGB LED燈](https://github.com/jumbokh/micropython_class/blob/master/class0925/3colorled.py)
     * [clist.py](https://github.com/jumbokh/micropython_class/blob/master/class0925/clist.py)
-#### Lab 來客報之機
+#### Lab 來客報知機
+#### Lab LCD實驗
+##### LCD 程式庫
+* [i2c_lcd.py](https://github.com/jumbokh/micropython_class/blob/master/class0925/i2c_lcd.py)
+* [lcd_api.py](https://github.com/jumbokh/micropython_class/blob/master/class0925/lcd_api.py)
+* [LCD Text](https://github.com/jumbokh/micropython_class/blob/master/class0925/lcdText.py)
+* [LCD Number](https://github.com/jumbokh/micropython_class/blob/master/class0925/lcdNumber.py)
+#### Lab 超音波實驗
+* [i2cscan](https://github.com/jumbokh/micropython_class/blob/master/class0925/I2C.py)
+* [distance](https://github.com/jumbokh/micropython_class/blob/master/class0925/distance.py)
+* [distance+LCD](https://github.com/jumbokh/micropython_class/blob/master/class0925/distanceLCD.py)
