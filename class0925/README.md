@@ -11,6 +11,7 @@
     * [clist.py](https://github.com/jumbokh/micropython_class/blob/master/class0925/clist.py)
 * [Random Disply RGB](https://github.com/jumbokh/micropython_class/blob/master/class0925/randColor.py) ### HomeWork
 #### Lab 來客報知機
+* [來客報知機](https://github.com/jumbokh/micropython_class/blob/master/class0925/SR-501.py)
 #### Lab LCD實驗
 * [LCD Text](https://github.com/jumbokh/micropython_class/blob/master/class0925/lcdText.py)
 * [LCD Number](https://github.com/jumbokh/micropython_class/blob/master/class0925/lcdNumber.py)
@@ -21,3 +22,5 @@
 * [i2cscan](https://github.com/jumbokh/micropython_class/blob/master/class0925/I2C.py)
 * [distance](https://github.com/jumbokh/micropython_class/blob/master/class0925/distance.py)
 * [distance+LCD](https://github.com/jumbokh/micropython_class/blob/master/class0925/distanceLCD.py)
+##### Lab 溫溼度感測
+* [DHT11](https://github.com/jumbokh/micropython_class/blob/master/class0925/TEMP.py)
