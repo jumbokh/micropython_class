@@ -9,7 +9,7 @@
 * [Blink 紅綠燈](https://github.com/jumbokh/micropython_class/blob/master/class0925/RYGLED.py)
 * [RGB LED燈](https://github.com/jumbokh/micropython_class/blob/master/class0925/3colorled.py)
     * [clist.py](https://github.com/jumbokh/micropython_class/blob/master/class0925/clist.py)
-* [Random Disply RGB](https://github.com/jumbokh/micropython_class/blob/master/class0925/randColor.py)
+* [Random Disply RGB](https://github.com/jumbokh/micropython_class/blob/master/class0925/randColor.py) ### HomeWork
 #### Lab 來客報知機
 #### Lab LCD實驗
 * [LCD Text](https://github.com/jumbokh/micropython_class/blob/master/class0925/lcdText.py)
