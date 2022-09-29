@@ -1,4 +1,4 @@
 # config.py
-SSID = "Tenda_5295A0"        # WiFi名稱
-PASSWORD = "0953313123"    # WiFi密碼
-KEY="cBVp_iFaovrfRFXjy8P4rn"  # iFTTT Key
+SSID = "your-SSID"        # WiFi名稱
+PASSWORD = "your-Key"    # WiFi密碼
+KEY=""  # iFTTT Key
