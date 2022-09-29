@@ -31,3 +31,6 @@
 #### Lab WiFi 連接
 * [cnt.py](https://github.com/jumbokh/micropython_class/blob/master/class0925/cnt.py)
     * [config.py](https://github.com/jumbokh/micropython_class/blob/master/class0925/config.py)
+##
+#### 參考
+* [Randomnerd](https://randomnerdtutorials.com/getting-started-with-esp32/)
