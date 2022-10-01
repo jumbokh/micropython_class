@@ -24,6 +24,8 @@
 * [distance+LCD](https://github.com/jumbokh/micropython_class/blob/master/class0925/distanceLCD.py)
 ##### Lab 溫溼度感測
 * [DHT11](https://github.com/jumbokh/micropython_class/blob/master/class0925/TEMP.py)
+#### Lab 光敏電阻
+* [photoresistor](https://github.com/jumbokh/micropython_class/blob/master/class0925/photoresistor.py)
 #### Lab 蜂鳴器
 * [Buzzer Test](https://github.com/jumbokh/micropython_class/blob/master/class0925/buzzerTest.py)
 * [Melody1: Mario](https://github.com/jumbokh/micropython_class/blob/master/class0925/melody.py)
